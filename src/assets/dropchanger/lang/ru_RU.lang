@@ -1,0 +1,43 @@
+dropchanger.item.informator.name=Информатор
+dropchanger.mobNameString=Имя сущности
+
+# GUI
+dropchanger.gui.entity.name=Сущность
+dropchanger.gui.entity.remove=Удалить выбранную
+dropchanger.gui.entity.save=Сохранить в конфиг
+dropchanger.gui.entity.item=Предмет
+dropchanger.gui.entity.xp.count=Кол-во сфер опыта
+dropchanger.gui.entity.xp.count.from=От
+dropchanger.gui.entity.xp.count.to=До
+dropchanger.gui.entity.xp.count.chance=Шанс
+
+dropchanger.gui.entity.item.id=ID
+dropchanger.gui.entity.item.meta=Мета-дата
+dropchanger.gui.entity.item.chance=Шанс
+dropchanger.gui.entity.item.count=Количество
+dropchanger.gui.entity.item.count.from=От
+dropchanger.gui.entity.item.count.to=До
+dropchanger.gui.entity.empty=Не выбрана
+dropchanger.gui.entity.item.empty=Не выбран
+dropchanger.gui.entity.item.remove=Удалить выбранный
+
+dropchanger.gui.message.info=Информация
+dropchanger.gui.message.warning=Внимание
+dropchanger.gui.message.error=Ошибка
+dropchanger.gui.message.unknown=Не указано
+dropchanger.gui.message.info.nomob=Добавте хотя бы одного $моба.
+dropchanger.gui.message.info.noitem=Добавте хотя бы один $предмет.
+dropchanger.gui.entity.entity.alreadyAdded=Данный моб уже в $списке.
+dropchanger.gui.entity.item.alreadyAdded=Данный предмет уже в $списке.
+dropchanger.gui.entity.item.slotEmpty=Слот предмета пуст.
+dropchanger.gui.entity.entity.slotEmpty=Слот для яйца призыва $пуст.
+
+dropchanger.packet.missing=Пакет данных не был получен от сервера, попробуйте еще раз.
+
+warning.dontHavePermissions=У вас недостаточно прав.
+
+dropchanger.gui.tooBigInt=Слишком большое число
+dropchanger.gui.emtyField=Одно из полей пустое
+
+#Другое
+warining.playerDontHavePermissions=У вас недостаточно прав.

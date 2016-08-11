@@ -1,0 +1,41 @@
+dropchanger.item.informator.name=Informator
+dropchanger.mobNameString=Entity name
+
+# GUI
+dropchanger.gui.entity.name=Entity
+dropchanger.gui.entity.remove=Delete selected
+dropchanger.gui.entity.save=Save in config
+dropchanger.gui.entity.item=Item
+dropchanger.gui.entity.xp.count=Count of XP orbs
+dropchanger.gui.entity.xp.count.from=Of
+dropchanger.gui.entity.xp.count.to=To
+dropchanger.gui.entity.xp.count.chance=Chance
+
+dropchanger.gui.entity.item.id=ID
+dropchanger.gui.entity.item.meta=MetaData
+dropchanger.gui.entity.item.count=Count
+dropchanger.gui.entity.item.chance=Chance
+dropchanger.gui.entity.item.count.from=Of
+dropchanger.gui.entity.item.count.to=To
+dropchanger.gui.entity.empty=Not selected
+dropchanger.gui.entity.item.empty=Not selected
+dropchanger.gui.entity.item.remove=Delete Selected
+
+dropchanger.gui.message.info=Information
+dropchanger.gui.message.warning=Warning
+dropchanger.gui.message.error=Error
+dropchanger.gui.message.unknown=Unknown
+dropchanger.gui.message.info.nomob=Add at least one $mob.
+dropchanger.gui.message.info.noitem=Add at least one $item.
+dropchanger.gui.entity.entity.alreadyAdded=This mob alreay $in list.
+dropchanger.gui.entity.item.alreadyAdded=This item alreay $in list.
+dropchanger.gui.entity.item.slotEmpty=Slot for item is empty.
+dropchanger.gui.entity.entity.slotEmpty=Slot for mob egg $is empty.
+
+dropchanger.packet.missing=Packet with data are missing, try some one time.
+
+dropchanger.gui.tooBigInt=To big number
+dropchanger.gui.emtyField=Some field is empty
+
+#Other
+warining.playerDontHavePermissions=You dont have permissions to use it.
